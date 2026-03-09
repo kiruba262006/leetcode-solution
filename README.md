@@ -10,10 +10,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/kiruba262006/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/kiruba262006/leetcode-solution/tree/master/0228-summary-ranges) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/kiruba262006/leetcode-solution/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0888-fair-candy-swap](https://github.com/kiruba262006/leetcode-solution/tree/master/0888-fair-candy-swap) |
 ## Hash Table
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/kiruba262006/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
+| [0888-fair-candy-swap](https://github.com/kiruba262006/leetcode-solution/tree/master/0888-fair-candy-swap) |
 ## Sliding Window
 |  |
 | ------- |
@@ -59,4 +61,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/kiruba262006/leetcode-solution/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0888-fair-candy-swap](https://github.com/kiruba262006/leetcode-solution/tree/master/0888-fair-candy-swap) |
+## Binary Search
+|  |
+| ------- |
+| [0888-fair-candy-swap](https://github.com/kiruba262006/leetcode-solution/tree/master/0888-fair-candy-swap) |
 <!---LeetCode Topics End-->
