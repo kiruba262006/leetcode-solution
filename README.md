@@ -44,10 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/kiruba262006/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/kiruba262006/leetcode-solution/tree/master/0068-text-justification) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/kiruba262006/leetcode-solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Math
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kiruba262006/leetcode-solution/tree/master/0204-count-primes) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/kiruba262006/leetcode-solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/kiruba262006/leetcode-solution/tree/master/0260-single-number-iii) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/kiruba262006/leetcode-solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Linked List
 |  |
 | ------- |
@@ -84,4 +87,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/kiruba262006/leetcode-solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/kiruba262006/leetcode-solution/tree/master/0206-reverse-linked-list) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/kiruba262006/leetcode-solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
