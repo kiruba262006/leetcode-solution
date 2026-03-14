@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/kiruba262006/leetcode-solution/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/kiruba262006/leetcode-solution/tree/master/0204-count-primes) |
+| [0509-fibonacci-number](https://github.com/kiruba262006/leetcode-solution/tree/master/0509-fibonacci-number) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/kiruba262006/leetcode-solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Enumeration
 |  |
@@ -93,6 +94,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/kiruba262006/leetcode-solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/kiruba262006/leetcode-solution/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/kiruba262006/leetcode-solution/tree/master/0509-fibonacci-number) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/kiruba262006/leetcode-solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kiruba262006/leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kiruba262006/leetcode-solution/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kiruba262006/leetcode-solution/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
