@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/kiruba262006/leetcode-solution/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/kiruba262006/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/kiruba262006/leetcode-solution/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/kiruba262006/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/kiruba262006/leetcode-solution/tree/master/0260-single-number-iii) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/kiruba262006/leetcode-solution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/kiruba262006/leetcode-solution/tree/master/0888-fair-candy-swap) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kiruba262006/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/kiruba262006/leetcode-solution/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/kiruba262006/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/kiruba262006/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0888-fair-candy-swap](https://github.com/kiruba262006/leetcode-solution/tree/master/0888-fair-candy-swap) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kiruba262006/leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/kiruba262006/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/kiruba262006/leetcode-solution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/kiruba262006/leetcode-solution/tree/master/0888-fair-candy-swap) |
 ## Binary Search
@@ -128,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/kiruba262006/leetcode-solution/tree/master/0110-balanced-binary-tree) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/kiruba262006/leetcode-solution/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
