@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/kiruba262006/leetcode-solution/tree/master/0068-text-justification) |
 | [0165-compare-version-numbers](https://github.com/kiruba262006/leetcode-solution/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/kiruba262006/leetcode-solution/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/kiruba262006/leetcode-solution/tree/master/0171-excel-sheet-column-number) |
 ## String Matching
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/kiruba262006/leetcode-solution/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/kiruba262006/leetcode-solution/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/kiruba262006/leetcode-solution/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/kiruba262006/leetcode-solution/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/kiruba262006/leetcode-solution/tree/master/0509-fibonacci-number) |
