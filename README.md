@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/kiruba262006/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/kiruba262006/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/kiruba262006/leetcode-solution/tree/master/0068-text-justification) |
 | [0119-pascals-triangle-ii](https://github.com/kiruba262006/leetcode-solution/tree/master/0119-pascals-triangle-ii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/kiruba262006/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0475-heaters](https://github.com/kiruba262006/leetcode-solution/tree/master/0475-heaters) |
 | [0888-fair-candy-swap](https://github.com/kiruba262006/leetcode-solution/tree/master/0888-fair-candy-swap) |
 ## Bit Manipulation
