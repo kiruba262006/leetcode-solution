@@ -30,12 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/kiruba262006/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kiruba262006/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/kiruba262006/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/kiruba262006/leetcode-solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0888-fair-candy-swap](https://github.com/kiruba262006/leetcode-solution/tree/master/0888-fair-candy-swap) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kiruba262006/leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/kiruba262006/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/kiruba262006/leetcode-solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/kiruba262006/leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kiruba262006/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/kiruba262006/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/kiruba262006/leetcode-solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/kiruba262006/leetcode-solution/tree/master/0399-evaluate-division) |
 ## String Matching
 |  |
@@ -181,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/kiruba262006/leetcode-solution/tree/master/0399-evaluate-division) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/kiruba262006/leetcode-solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 <!---LeetCode Topics End-->
