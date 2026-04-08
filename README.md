@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/kiruba262006/leetcode-solution/tree/master/0110-balanced-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/kiruba262006/leetcode-solution/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/kiruba262006/leetcode-solution/tree/master/0110-balanced-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/kiruba262006/leetcode-solution/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Counting
 |  |
 | ------- |
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/kiruba262006/leetcode-solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/kiruba262006/leetcode-solution/tree/master/3653-xor-after-range-multiplication-queries-i) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/kiruba262006/leetcode-solution/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
