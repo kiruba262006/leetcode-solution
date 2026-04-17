@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/kiruba262006/leetcode-solution/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/kiruba262006/leetcode-solution/tree/master/0260-single-number-iii) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/kiruba262006/leetcode-solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Linked List
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/kiruba262006/leetcode-solution/tree/master/0191-number-of-1-bits) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/kiruba262006/leetcode-solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/kiruba262006/leetcode-solution/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Binary Search Tree
