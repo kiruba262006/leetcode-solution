@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/kiruba262006/leetcode-solution/tree/master/0260-single-number-iii) |
 | [0399-evaluate-division](https://github.com/kiruba262006/leetcode-solution/tree/master/0399-evaluate-division) |
 | [0475-heaters](https://github.com/kiruba262006/leetcode-solution/tree/master/0475-heaters) |
+| [0539-minimum-time-difference](https://github.com/kiruba262006/leetcode-solution/tree/master/0539-minimum-time-difference) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/kiruba262006/leetcode-solution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/kiruba262006/leetcode-solution/tree/master/0888-fair-candy-swap) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/kiruba262006/leetcode-solution/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/kiruba262006/leetcode-solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/kiruba262006/leetcode-solution/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/kiruba262006/leetcode-solution/tree/master/0412-fizz-buzz) |
+| [0539-minimum-time-difference](https://github.com/kiruba262006/leetcode-solution/tree/master/0539-minimum-time-difference) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kiruba262006/leetcode-solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## String Matching
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/kiruba262006/leetcode-solution/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/kiruba262006/leetcode-solution/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/kiruba262006/leetcode-solution/tree/master/0509-fibonacci-number) |
+| [0539-minimum-time-difference](https://github.com/kiruba262006/leetcode-solution/tree/master/0539-minimum-time-difference) |
 | [1622-fancy-sequence](https://github.com/kiruba262006/leetcode-solution/tree/master/1622-fancy-sequence) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/kiruba262006/leetcode-solution/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/kiruba262006/leetcode-solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/kiruba262006/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kiruba262006/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0475-heaters](https://github.com/kiruba262006/leetcode-solution/tree/master/0475-heaters) |
+| [0539-minimum-time-difference](https://github.com/kiruba262006/leetcode-solution/tree/master/0539-minimum-time-difference) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/kiruba262006/leetcode-solution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/kiruba262006/leetcode-solution/tree/master/0888-fair-candy-swap) |
 ## Binary Search
