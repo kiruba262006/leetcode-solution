@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/kiruba262006/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/kiruba262006/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kiruba262006/leetcode-solution/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/kiruba262006/leetcode-solution/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/kiruba262006/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/kiruba262006/leetcode-solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0888-fair-candy-swap](https://github.com/kiruba262006/leetcode-solution/tree/master/0888-fair-candy-swap) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/kiruba262006/leetcode-solution/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/kiruba262006/leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kiruba262006/leetcode-solution/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/kiruba262006/leetcode-solution/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/kiruba262006/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/kiruba262006/leetcode-solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/kiruba262006/leetcode-solution/tree/master/0399-evaluate-division) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/kiruba262006/leetcode-solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kiruba262006/leetcode-solution/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/kiruba262006/leetcode-solution/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/kiruba262006/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
