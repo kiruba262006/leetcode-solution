@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/kiruba262006/leetcode-solution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/kiruba262006/leetcode-solution/tree/master/0888-fair-candy-swap) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/kiruba262006/leetcode-solution/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/kiruba262006/leetcode-solution/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kiruba262006/leetcode-solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kiruba262006/leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/kiruba262006/leetcode-solution/tree/master/3653-xor-after-range-multiplication-queries-i) |
