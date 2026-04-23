@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/kiruba262006/leetcode-solution/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/kiruba262006/leetcode-solution/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kiruba262006/leetcode-solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2615-sum-of-distances](https://github.com/kiruba262006/leetcode-solution/tree/master/2615-sum-of-distances) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kiruba262006/leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/kiruba262006/leetcode-solution/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/kiruba262006/leetcode-solution/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/kiruba262006/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/kiruba262006/leetcode-solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0888-fair-candy-swap](https://github.com/kiruba262006/leetcode-solution/tree/master/0888-fair-candy-swap) |
+| [2615-sum-of-distances](https://github.com/kiruba262006/leetcode-solution/tree/master/2615-sum-of-distances) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kiruba262006/leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/kiruba262006/leetcode-solution/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/kiruba262006/leetcode-solution/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -257,4 +259,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kiruba262006/leetcode-solution/tree/master/0238-product-of-array-except-self) |
+| [2615-sum-of-distances](https://github.com/kiruba262006/leetcode-solution/tree/master/2615-sum-of-distances) |
 <!---LeetCode Topics End-->
