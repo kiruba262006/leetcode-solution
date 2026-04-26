@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kiruba262006/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/kiruba262006/leetcode-solution/tree/master/0037-sudoku-solver) |
+| [0045-jump-game-ii](https://github.com/kiruba262006/leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/kiruba262006/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/kiruba262006/leetcode-solution/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/kiruba262006/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/kiruba262006/leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0119-pascals-triangle-ii](https://github.com/kiruba262006/leetcode-solution/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/kiruba262006/leetcode-solution/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/kiruba262006/leetcode-solution/tree/master/0509-fibonacci-number) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/kiruba262006/leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/kiruba262006/leetcode-solution/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/kiruba262006/leetcode-solution/tree/master/0455-assign-cookies) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kiruba262006/leetcode-solution/tree/master/2078-two-furthest-houses-with-different-colors) |
