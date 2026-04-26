@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/kiruba262006/leetcode-solution/tree/master/0539-minimum-time-difference) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/kiruba262006/leetcode-solution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/kiruba262006/leetcode-solution/tree/master/0888-fair-candy-swap) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/kiruba262006/leetcode-solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/kiruba262006/leetcode-solution/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/kiruba262006/leetcode-solution/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kiruba262006/leetcode-solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/kiruba262006/leetcode-solution/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/kiruba262006/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/kiruba262006/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/kiruba262006/leetcode-solution/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/kiruba262006/leetcode-solution/tree/master/0110-balanced-binary-tree) |
 | [0399-evaluate-division](https://github.com/kiruba262006/leetcode-solution/tree/master/0399-evaluate-division) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/kiruba262006/leetcode-solution/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -228,10 +231,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/kiruba262006/leetcode-solution/tree/master/0126-word-ladder-ii) |
 | [0399-evaluate-division](https://github.com/kiruba262006/leetcode-solution/tree/master/0399-evaluate-division) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/kiruba262006/leetcode-solution/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Union-Find
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/kiruba262006/leetcode-solution/tree/master/0399-evaluate-division) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/kiruba262006/leetcode-solution/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Graph Theory
 |  |
 | ------- |
