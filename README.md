@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/kiruba262006/leetcode-solution/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/kiruba262006/leetcode-solution/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kiruba262006/leetcode-solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kiruba262006/leetcode-solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kiruba262006/leetcode-solution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kiruba262006/leetcode-solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2615-sum-of-distances](https://github.com/kiruba262006/leetcode-solution/tree/master/2615-sum-of-distances) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/kiruba262006/leetcode-solution/tree/master/0539-minimum-time-difference) |
 | [1622-fancy-sequence](https://github.com/kiruba262006/leetcode-solution/tree/master/1622-fancy-sequence) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/kiruba262006/leetcode-solution/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kiruba262006/leetcode-solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/kiruba262006/leetcode-solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/kiruba262006/leetcode-solution/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/kiruba262006/leetcode-solution/tree/master/3783-mirror-distance-of-an-integer) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/kiruba262006/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/kiruba262006/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/kiruba262006/leetcode-solution/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kiruba262006/leetcode-solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/kiruba262006/leetcode-solution/tree/master/0539-minimum-time-difference) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/kiruba262006/leetcode-solution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/kiruba262006/leetcode-solution/tree/master/0888-fair-candy-swap) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kiruba262006/leetcode-solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Binary Search
 |  |
 | ------- |
