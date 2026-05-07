@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/kiruba262006/leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/kiruba262006/leetcode-solution/tree/master/3488-closest-equal-element-queries) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/kiruba262006/leetcode-solution/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3660-jump-game-ix](https://github.com/kiruba262006/leetcode-solution/tree/master/3660-jump-game-ix) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/kiruba262006/leetcode-solution/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/kiruba262006/leetcode-solution/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/kiruba262006/leetcode-solution/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/kiruba262006/leetcode-solution/tree/master/0788-rotated-digits) |
 | [3225-maximum-score-from-grid-operations](https://github.com/kiruba262006/leetcode-solution/tree/master/3225-maximum-score-from-grid-operations) |
+| [3660-jump-game-ix](https://github.com/kiruba262006/leetcode-solution/tree/master/3660-jump-game-ix) |
 ## Memoization
 |  |
 | ------- |
