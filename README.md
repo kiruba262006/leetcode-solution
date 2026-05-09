@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/kiruba262006/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/kiruba262006/leetcode-solution/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/kiruba262006/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kiruba262006/leetcode-solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0119-pascals-triangle-ii](https://github.com/kiruba262006/leetcode-solution/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/kiruba262006/leetcode-solution/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/kiruba262006/leetcode-solution/tree/master/0169-majority-element) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/kiruba262006/leetcode-solution/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/kiruba262006/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kiruba262006/leetcode-solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/kiruba262006/leetcode-solution/tree/master/0126-word-ladder-ii) |
 | [0141-linked-list-cycle](https://github.com/kiruba262006/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kiruba262006/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kiruba262006/leetcode-solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/kiruba262006/leetcode-solution/tree/master/0110-balanced-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kiruba262006/leetcode-solution/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kiruba262006/leetcode-solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/kiruba262006/leetcode-solution/tree/master/0110-balanced-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kiruba262006/leetcode-solution/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Counting
@@ -288,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kiruba262006/leetcode-solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/kiruba262006/leetcode-solution/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/kiruba262006/leetcode-solution/tree/master/0191-number-of-1-bits) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/kiruba262006/leetcode-solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
