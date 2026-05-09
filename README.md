@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/kiruba262006/leetcode-solution/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/kiruba262006/leetcode-solution/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kiruba262006/leetcode-solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1914-cyclically-rotating-a-grid](https://github.com/kiruba262006/leetcode-solution/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kiruba262006/leetcode-solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kiruba262006/leetcode-solution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/kiruba262006/leetcode-solution/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/kiruba262006/leetcode-solution/tree/master/0412-fizz-buzz) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/kiruba262006/leetcode-solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/kiruba262006/leetcode-solution/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1914-cyclically-rotating-a-grid](https://github.com/kiruba262006/leetcode-solution/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/kiruba262006/leetcode-solution/tree/master/2069-walking-robot-simulation-ii) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/kiruba262006/leetcode-solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/kiruba262006/leetcode-solution/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/kiruba262006/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/kiruba262006/leetcode-solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kiruba262006/leetcode-solution/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1914-cyclically-rotating-a-grid](https://github.com/kiruba262006/leetcode-solution/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kiruba262006/leetcode-solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/kiruba262006/leetcode-solution/tree/master/3225-maximum-score-from-grid-operations) |
 ## Sorting
