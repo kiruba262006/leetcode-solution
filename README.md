@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/kiruba262006/leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 | [1622-fancy-sequence](https://github.com/kiruba262006/leetcode-solution/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/kiruba262006/leetcode-solution/tree/master/2069-walking-robot-simulation-ii) |
 ## Segment Tree
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/kiruba262006/leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/kiruba262006/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/kiruba262006/leetcode-solution/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Breadth-First Search
@@ -336,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/kiruba262006/leetcode-solution/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/kiruba262006/leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
