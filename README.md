@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/kiruba262006/leetcode-solution/tree/master/0888-fair-candy-swap) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/kiruba262006/leetcode-solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kiruba262006/leetcode-solution/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kiruba262006/leetcode-solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/kiruba262006/leetcode-solution/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/kiruba262006/leetcode-solution/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kiruba262006/leetcode-solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/kiruba262006/leetcode-solution/tree/master/0539-minimum-time-difference) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/kiruba262006/leetcode-solution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/kiruba262006/leetcode-solution/tree/master/0888-fair-candy-swap) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kiruba262006/leetcode-solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kiruba262006/leetcode-solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Binary Search
 |  |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/kiruba262006/leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/kiruba262006/leetcode-solution/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/kiruba262006/leetcode-solution/tree/master/0455-assign-cookies) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kiruba262006/leetcode-solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kiruba262006/leetcode-solution/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Prefix Sum
 |  |
