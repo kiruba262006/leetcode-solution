@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/kiruba262006/leetcode-solution/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/kiruba262006/leetcode-solution/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kiruba262006/leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/kiruba262006/leetcode-solution/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/kiruba262006/leetcode-solution/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/kiruba262006/leetcode-solution/tree/master/0457-circular-array-loop) |
 | [0475-heaters](https://github.com/kiruba262006/leetcode-solution/tree/master/0475-heaters) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0306-additive-number](https://github.com/kiruba262006/leetcode-solution/tree/master/0306-additive-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kiruba262006/leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kiruba262006/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/kiruba262006/leetcode-solution/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/kiruba262006/leetcode-solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/kiruba262006/leetcode-solution/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/kiruba262006/leetcode-solution/tree/master/0412-fizz-buzz) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/kiruba262006/leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0119-pascals-triangle-ii](https://github.com/kiruba262006/leetcode-solution/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/kiruba262006/leetcode-solution/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/kiruba262006/leetcode-solution/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/kiruba262006/leetcode-solution/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/kiruba262006/leetcode-solution/tree/master/0788-rotated-digits) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/kiruba262006/leetcode-solution/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
