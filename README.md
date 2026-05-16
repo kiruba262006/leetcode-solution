@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/kiruba262006/leetcode-solution/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/kiruba262006/leetcode-solution/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/kiruba262006/leetcode-solution/tree/master/0204-count-primes) |
+| [0390-elimination-game](https://github.com/kiruba262006/leetcode-solution/tree/master/0390-elimination-game) |
 | [0400-nth-digit](https://github.com/kiruba262006/leetcode-solution/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/kiruba262006/leetcode-solution/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/kiruba262006/leetcode-solution/tree/master/0509-fibonacci-number) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/kiruba262006/leetcode-solution/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/kiruba262006/leetcode-solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/kiruba262006/leetcode-solution/tree/master/0206-reverse-linked-list) |
+| [0390-elimination-game](https://github.com/kiruba262006/leetcode-solution/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/kiruba262006/leetcode-solution/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/kiruba262006/leetcode-solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/kiruba262006/leetcode-solution/tree/master/1823-find-the-winner-of-the-circular-game) |
