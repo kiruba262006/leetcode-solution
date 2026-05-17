@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/kiruba262006/leetcode-solution/tree/master/0539-minimum-time-difference) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/kiruba262006/leetcode-solution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/kiruba262006/leetcode-solution/tree/master/0888-fair-candy-swap) |
+| [1306-jump-game-iii](https://github.com/kiruba262006/leetcode-solution/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/kiruba262006/leetcode-solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kiruba262006/leetcode-solution/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kiruba262006/leetcode-solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/kiruba262006/leetcode-solution/tree/master/0110-balanced-binary-tree) |
 | [0399-evaluate-division](https://github.com/kiruba262006/leetcode-solution/tree/master/0399-evaluate-division) |
+| [1306-jump-game-iii](https://github.com/kiruba262006/leetcode-solution/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/kiruba262006/leetcode-solution/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Tree
 |  |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/kiruba262006/leetcode-solution/tree/master/0126-word-ladder-ii) |
 | [0399-evaluate-division](https://github.com/kiruba262006/leetcode-solution/tree/master/0399-evaluate-division) |
+| [1306-jump-game-iii](https://github.com/kiruba262006/leetcode-solution/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/kiruba262006/leetcode-solution/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Union-Find
 |  |
