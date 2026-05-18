@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/kiruba262006/leetcode-solution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/kiruba262006/leetcode-solution/tree/master/0888-fair-candy-swap) |
 | [1306-jump-game-iii](https://github.com/kiruba262006/leetcode-solution/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/kiruba262006/leetcode-solution/tree/master/1345-jump-game-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/kiruba262006/leetcode-solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kiruba262006/leetcode-solution/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kiruba262006/leetcode-solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/kiruba262006/leetcode-solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0457-circular-array-loop](https://github.com/kiruba262006/leetcode-solution/tree/master/0457-circular-array-loop) |
 | [0888-fair-candy-swap](https://github.com/kiruba262006/leetcode-solution/tree/master/0888-fair-candy-swap) |
+| [1345-jump-game-iv](https://github.com/kiruba262006/leetcode-solution/tree/master/1345-jump-game-iv) |
 | [2615-sum-of-distances](https://github.com/kiruba262006/leetcode-solution/tree/master/2615-sum-of-distances) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kiruba262006/leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/kiruba262006/leetcode-solution/tree/master/3488-closest-equal-element-queries) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/kiruba262006/leetcode-solution/tree/master/0126-word-ladder-ii) |
 | [0399-evaluate-division](https://github.com/kiruba262006/leetcode-solution/tree/master/0399-evaluate-division) |
 | [1306-jump-game-iii](https://github.com/kiruba262006/leetcode-solution/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/kiruba262006/leetcode-solution/tree/master/1345-jump-game-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/kiruba262006/leetcode-solution/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Union-Find
 |  |
