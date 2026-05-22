@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kiruba262006/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/kiruba262006/leetcode-solution/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/kiruba262006/leetcode-solution/tree/master/0299-bulls-and-cows) |
+| [0383-ransom-note](https://github.com/kiruba262006/leetcode-solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kiruba262006/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/kiruba262006/leetcode-solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0457-circular-array-loop](https://github.com/kiruba262006/leetcode-solution/tree/master/0457-circular-array-loop) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/kiruba262006/leetcode-solution/tree/master/0299-bulls-and-cows) |
 | [0306-additive-number](https://github.com/kiruba262006/leetcode-solution/tree/master/0306-additive-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kiruba262006/leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/kiruba262006/leetcode-solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kiruba262006/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/kiruba262006/leetcode-solution/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/kiruba262006/leetcode-solution/tree/master/0394-decode-string) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kiruba262006/leetcode-solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kiruba262006/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/kiruba262006/leetcode-solution/tree/master/0299-bulls-and-cows) |
+| [0383-ransom-note](https://github.com/kiruba262006/leetcode-solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kiruba262006/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
