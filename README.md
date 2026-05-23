@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/kiruba262006/leetcode-solution/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/kiruba262006/leetcode-solution/tree/master/0299-bulls-and-cows) |
 | [0306-additive-number](https://github.com/kiruba262006/leetcode-solution/tree/master/0306-additive-number) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/kiruba262006/leetcode-solution/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kiruba262006/leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/kiruba262006/leetcode-solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kiruba262006/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/kiruba262006/leetcode-solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kiruba262006/leetcode-solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/kiruba262006/leetcode-solution/tree/master/0110-balanced-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/kiruba262006/leetcode-solution/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kiruba262006/leetcode-solution/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/kiruba262006/leetcode-solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kiruba262006/leetcode-solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/kiruba262006/leetcode-solution/tree/master/0110-balanced-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/kiruba262006/leetcode-solution/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kiruba262006/leetcode-solution/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Counting
 |  |
@@ -380,5 +383,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/kiruba262006/leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/kiruba262006/leetcode-solution/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0394-decode-string](https://github.com/kiruba262006/leetcode-solution/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
