@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/kiruba262006/leetcode-solution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/kiruba262006/leetcode-solution/tree/master/0888-fair-candy-swap) |
 | [1306-jump-game-iii](https://github.com/kiruba262006/leetcode-solution/tree/master/1306-jump-game-iii) |
+| [1340-jump-game-v](https://github.com/kiruba262006/leetcode-solution/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/kiruba262006/leetcode-solution/tree/master/1345-jump-game-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/kiruba262006/leetcode-solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kiruba262006/leetcode-solution/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/kiruba262006/leetcode-solution/tree/master/0539-minimum-time-difference) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/kiruba262006/leetcode-solution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/kiruba262006/leetcode-solution/tree/master/0888-fair-candy-swap) |
+| [1340-jump-game-v](https://github.com/kiruba262006/leetcode-solution/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kiruba262006/leetcode-solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kiruba262006/leetcode-solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Binary Search
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/kiruba262006/leetcode-solution/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/kiruba262006/leetcode-solution/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/kiruba262006/leetcode-solution/tree/master/0788-rotated-digits) |
+| [1340-jump-game-v](https://github.com/kiruba262006/leetcode-solution/tree/master/1340-jump-game-v) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/kiruba262006/leetcode-solution/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/kiruba262006/leetcode-solution/tree/master/3225-maximum-score-from-grid-operations) |
 | [3660-jump-game-ix](https://github.com/kiruba262006/leetcode-solution/tree/master/3660-jump-game-ix) |
