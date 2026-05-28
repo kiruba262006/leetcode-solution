@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/kiruba262006/leetcode-solution/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/kiruba262006/leetcode-solution/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kiruba262006/leetcode-solution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/kiruba262006/leetcode-solution/tree/master/3093-longest-common-suffix-queries) |
 | [3225-maximum-score-from-grid-operations](https://github.com/kiruba262006/leetcode-solution/tree/master/3225-maximum-score-from-grid-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kiruba262006/leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/kiruba262006/leetcode-solution/tree/master/3488-closest-equal-element-queries) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/kiruba262006/leetcode-solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kiruba262006/leetcode-solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kiruba262006/leetcode-solution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/kiruba262006/leetcode-solution/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kiruba262006/leetcode-solution/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/kiruba262006/leetcode-solution/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## String Matching
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/kiruba262006/leetcode-solution/tree/master/0211-design-add-and-search-words-data-structure) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/kiruba262006/leetcode-solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kiruba262006/leetcode-solution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/kiruba262006/leetcode-solution/tree/master/3093-longest-common-suffix-queries) |
 ## Stack
 |  |
 | ------- |
